@@ -1,0 +1,7 @@
+bayesian_optimization==1.2.0
+joblib==0.16.0
+numpy==1.21.5
+optuna==2.7.0
+pandas==1.2.5
+requests==2.24.0
+scikit_optimize==0.9.0
